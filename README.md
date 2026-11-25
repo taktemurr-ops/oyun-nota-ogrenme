@@ -1,4 +1,4 @@
-# Nota Okuma · Note Reading
+# Deşifre Antrenmanı · Sight-Reading Drill
 
 Sol ve fa anahtarında notaları hızla tanı, klavyede bul
 
